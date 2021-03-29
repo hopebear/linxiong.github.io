@@ -11,20 +11,12 @@
 
 
 <font size="5"> 
+add sth from local
+
 
 Lin Xiong 
 
-Ph.D. Candidate
 
-Geophysics, Geodesy, and Geosensing 
-
-Earth and Atmospheric Science Department
-
-University of Houston 
-
-Email: lxiong2@uh.edu
-
-Office: 231 SR1
 
 </font>
 
