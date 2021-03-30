@@ -1,18 +1,12 @@
 name: "Lin Xiong"
 output_dir: "."
 navbar:
-  title: "Lin Xiong"
+  title: "Code Page"
   left:
-    - text: "CV"
-      href: files/CV_lin.pdf
-    - text: "Research"
-      href: research.html
-    - text: "Publications"
-      href: paper.html
-    - text: "Presentations"
-      href: Presentations.html
-    - text: "Blog"
-      href: blog.html
+    - text: "GEDI"
+      href: gedi.html
+    - text: "GPS_OPUS"
+      href: opus.html
   right:
     - icon: fa-github fa-lg
       href: https://github.com/hopebear/
