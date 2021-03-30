@@ -1,1 +1,1 @@
-# record all scripts?
+###write and upload scripts.
