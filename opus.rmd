@@ -1,0 +1,19 @@
+
+#####script for opus gps 
+XXXXXXXXXEmail Read ScriptXXXXXXXX
+
+```{r, echo=FALSE}
+htmltools::includeHTML("ReadGmailV2_2020_blog.py.html")
+```
+
+XXXXXXXXXX
+
+
+
+XXXXXXXXXXUpdate GPS data upload script.
+
+```{r, echo=FALSE}
+htmltools::includeHTML("OPUS_uploadPHDversion.py.html")
+```
+
+XXXXXXXXXXXXXXXXX
